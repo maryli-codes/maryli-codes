@@ -10,6 +10,6 @@ I specialize in turning messy data into business insights. Currently based in **
 ---
 
 ### 🛠️ Featured Projects
-1. **[MPrint Business Site](link:https://github.com/maryli-codes/mprint-site)** - End-to-end business management for a local arts & crafts shop.
-2. **[Star Wars Relational DB](link:https://github.com/maryli-codes/starwars-website)** - Complex MySQL schema design and query optimization.
-3. **[Python Web Project](link:https://github.com/maryli-codes/python-website)** - Full-stack application developed during CompProg 1-2.
+1. **[MPrint Business Site](https://github.com/maryli-codes/mprint-site)** - End-to-end business management for a local arts & crafts shop.
+2. **[Star Wars Relational DB](https://github.com/maryli-codes/starwars-website)** - Complex MySQL schema design and query optimization.
+3. **[Python Web Project](https://github.com/maryli-codes/python-website)** - Full-stack application developed during CompProg 1-2.
