@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Mary!
+### Data Analyst | Business Analyst | Information Systems Student
 
-<!--
-**maryli-codes/maryli-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in turning messy data into business insights. Currently based in **BXU**, preparing for a transition to the **DVO**.
 
-Here are some ideas to get you started:
+- **Currently Learning:** Google Data Analytics Professional Certificate
+- **Tech Stack:** MySQL, Python, PHP, Laragon/Navicat
+- **2026 Goal:** Complete OJT in Davao & Master Tableau/PowerBI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Featured Projects
+1. **[MPrint Business Site](link)** - End-to-end business management for a local arts & crafts shop.
+2. **[Star Wars Relational DB](link)** - Complex MySQL schema design and query optimization.
+3. **[Python Web Project](link)** - Full-stack application developed during CompProg 1-2.
